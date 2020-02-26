@@ -240,6 +240,9 @@ MonoBehaviour:
     type: 3}
   nameLabel: {fileID: 0}
   namePos: {fileID: 2208929279454433725}
+  healthPrefabs: {fileID: 7298156124685325465, guid: 526abe4b364db774383f6078ba099d4b,
+    type: 3}
+  health: {fileID: 0}
   pName: player
   pColour: '#ffffff'
 --- !u!114 &2208929277715820331
